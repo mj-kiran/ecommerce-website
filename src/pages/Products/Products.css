@@ -1,0 +1,32 @@
+.products_card {
+  min-height: 10rem;
+}
+.img_Container {
+  height: 20.8333vw;
+  padding: 20px;
+  background: #fff;
+  margin: auto;
+}
+.card_img {
+  height: 100%;
+  max-width: 100%;
+  width: auto;
+}
+.card_title {
+  font-size: 18px;
+  height: 48px;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+.card_price {
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #333;
+  font-weight: 600;
+}
+
+.ui.cards > .card > .content > .description {
+  height: 36px;
+  margin-bottom: 0px;
+  overflow: hidden;
+}
